@@ -11,14 +11,14 @@ This repository contains a simple Todo list application built using HTML, CSS, a
 ## Getting Started
 To get started with the application, simply clone the repository to your local machine:
 ```bash
-https://github.com/dev-ashrafbd/Todo.git
+https://github.com/mdashraful305/Todo.git
 
 ```
 Once the repository is cloned, open the index.html file in your web browser to start using the application.
 
 ## Live View
 ```bash
-https://dev-ashrafbd.github.io/Todo/
+https://mdashraful305.github.io/Todo/
 ``` 
 
 ## Contributing
